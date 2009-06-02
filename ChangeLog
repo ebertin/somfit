@@ -1,0 +1,19 @@
+/*
+                                ChangeLog
+
+*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+*
+*       Part of:        SOMFit
+*
+*       Author:         E. BERTIN (IAP)
+*
+*       Contents:       log of changes made to the SOMFit source
+*
+*       Last modify:    14/03/2006
+*
+*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+*/
+
+Who     When            Where(mostly)   What
+
+EB      14/03/2006      -               Autoconf'ed package.

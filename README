@@ -1,0 +1,14 @@
+March 14, 2006
+
+This is V1.2.0 of SOMFit.
+SOMFit computes Self-Organizing Maps for use as unsupervised classifiers in
+SExtractor. It reads vignets from SExtractor "FITS_LDAC" catalogs and generates
+a .som binary FITS file which can be loaded back in SExtractor (using the
+SOM_NAME config parameters in default.sex) to provide a low-dimensional vector
+of attributes VECTOR_SOMFIT().
+
+In any case you can still reach me at bertin@iap.fr. I cannot garantee
+that I will reply immediately, but I will try for sure to provide
+an answer.
+
+					Emmanuel Bertin.
